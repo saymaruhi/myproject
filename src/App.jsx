@@ -9,6 +9,7 @@ function App() {
   return (
     <div>
       <h1>GitHub</h1>
+      <H2>Story 1</H2>
 
       <h2>Toogle in React</h2>
       {
