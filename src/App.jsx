@@ -1,6 +1,6 @@
 import Test from "./test1.jsx";
 import { useState } from "react";
-import User from "./Toogle.jsx";
+import User from "./toogle.jsx";
 
 
 function App() {
